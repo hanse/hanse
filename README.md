@@ -1,6 +1,6 @@
 Hello there 👋
 
-I work at [Oda Norge](https://oda.com) - Norway's leading online grocery store 🚀
+I work at [Oda Norge](https://oda.com) – Norway's leading online grocery store 🚀
 
 In my spare time I enjoy making software using TypeScript and PostgreSQL to make my life and other non-programming hobbies easier:
 - [getninjagains.com](https://getninjagains.com) 🏋️‍♀️
